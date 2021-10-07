@@ -16,3 +16,11 @@ The p-value of our linear regression analysis is 5.35, which is smaller than the
 -Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 the r-squared value is equal to 0.7, which means that roughly 70% of the variablilty of our dependent variable (mpg of MechaCar prototypes ) is explained using the linear regression model and this means that the model does predict the mpg of MechaCar prototypes effectively.
+
+
+## Summary Statistics on Suspension Coils
+write a short summary here
+
+![name-of-you-image](https://github.com/Asmaamkawi/MechaCar_Statistical_Analysis/blob/main/Deliverable%202%20total_summary.PNG)
+
+![name-of-you-image](https://github.com/Asmaamkawi/MechaCar_Statistical_Analysis/blob/main/Deliverable%202%20lot_summary.PNG)
