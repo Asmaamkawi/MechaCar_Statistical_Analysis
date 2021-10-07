@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 
-## Linear Regression to Predict MPG##
+## Linear Regression to Predict MPG
 
 -Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 the variables that mosly unlikely to provide non random amount of variance to the mpg values in this dataset are the (Intercept), Vehicle_length & thhe ground_clearnce
