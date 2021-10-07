@@ -6,7 +6,6 @@ Write the summary here
 
 ![name-of-you-image](https://github.com/Asmaamkawi/MechaCar_Statistical_Analysis/blob/main/Deliverable%201.PNG)
 
-
 -Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 the variables that mosly unlikely to provide non random amount of variance to the mpg values in this dataset are the (Intercept), Vehicle_length & thhe ground_clearnce
 
