@@ -75,4 +75,15 @@ While looking at the results for each manufacturing lot, Lot 1 shows that the P 
 
 ## Study Design: MechaCar vs Competition
 
+What are the maintenance costs of a MechaCar automobile versus it’s competitors?
+
+*  metric to be tested :
+   Ideally, we would identify different metrics to evaluate the maintinance costs ,for example, the planned maintenance percentage, Overall Equipment Effectiveness,Mean time to    repair, Mean time between failure, and Preventive maintenance compliance. all these metrics will affect our hypothesis as follow:
+   
+* A null hypothesis or an alternative hypothesis is described.
+  hypotheses would examin if the maintinance costs get affected by any of the above mentioned metrics (increase or decrease in the maintinace cost)?
+  
+* A statistical test is described to test the hypothesis.
+  We will have to conduct a multiple linear regression to predict if the maintinance costs will get affected by any of these variables and to identify if there is a      relationship /coorelation between those variables.
+
 
