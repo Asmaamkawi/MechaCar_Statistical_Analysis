@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-Write the summary here
+The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle.Please find below a design of a linear model that predicts the mpg of MechaCar prototypes using several variables from the MechaCar_mpg.csv file.
 
 ![name-of-you-image](https://github.com/Asmaamkawi/MechaCar_Statistical_Analysis/blob/main/Deliverable%201.PNG)
 
@@ -20,7 +20,11 @@ the r-squared value is equal to 0.7, which means that roughly 70% of the variabl
 
 
 ## Summary Statistics on Suspension Coils
-write a short summary here
+
+From MechaCar Suspension_Coil.csv dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. Below, a summary statistics table was created to show the following:
+
+* The suspension coil’s PSI continuous variable across all manufacturing lots
+* The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 
 * **Total summary dataframe that has the mean, median, variance, and standard deviation of the PSI for all manufacturing lots**
 
