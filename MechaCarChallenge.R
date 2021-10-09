@@ -1,3 +1,5 @@
+
+
 ##Deliverable 1:
 
 library(dplyr)
@@ -20,6 +22,6 @@ lot_summary<-Suspension_Coil %>% group_by(Manufacturing_Lot) %>% summarize(mean=
 
 ##Deliverable 3:
 
-t.test(Suspension_Coil$PSI, mu = 1,500)
+t.test(Suspension_Coil$PSI, mu = 1.500,conf=0.95,alternative="greater",paired=FALSE)
 
 
