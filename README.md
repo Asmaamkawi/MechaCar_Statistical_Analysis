@@ -39,7 +39,7 @@ The design specifications for the MechaCar suspension coils meets the variance o
 ## T-Tests on Suspension Coils
 write a short summary here
 
-**t-test that compares all manufacturing lots against mean PSI of the population**
+* **t-test that compares all manufacturing lots against mean PSI of the population**
 
 ![name-of-you-image](__)
 
@@ -47,7 +47,7 @@ write a short summary here
 From here we can see the true mean of the sample is 1498.78, which we also saw in the summary statistics above. With a p-Value of 0.06, which is higher than the common significance level of 0.05, there is NOT enough evidence to support rejecting the null hypothesis. That is to say, the mean of all three of these manufacturing lots is statistically similar to the presumed population mean of 1500.
 
 
-**t-tests that compare each manufacturing lot against mean PSI of the population**
+* **t-tests that compare each manufacturing lot against mean PSI of the population**
 
 ![name-of-you-image](__)
 
