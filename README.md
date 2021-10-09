@@ -43,7 +43,7 @@ The design specifications for the MechaCar suspension coils meets the variance o
 
 ## T-Tests on Suspension Coils
 
-Below , a t-test was performed to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.Please refer to the following results:
+A t-test was performed to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.Please refer to the following results:
 
 * **t-test that compares all manufacturing lots against mean PSI of the population**
 
