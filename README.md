@@ -2,7 +2,8 @@
 
 ## Linear Regression to Predict MPG
 
-The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle.Please find below a design of a linear model that predicts the mpg of MechaCar prototypes using several variables from the MechaCar_mpg.csv file.
+The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle.Please find below a design of a linear model that predicts the mpg of MechaCar prototypes using several variables from the MechaCar_mpg.csv file.Please refer to the following results:
+
 
 ![name-of-you-image](https://github.com/Asmaamkawi/MechaCar_Statistical_Analysis/blob/main/Deliverable%201.PNG)
 
