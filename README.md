@@ -60,14 +60,14 @@ A t-test was performed to determine if all manufacturing lots and each lot indiv
 ![name-of-you-image](__)
 
 
-From the results displayed above  it is evident that the mean of the sample size is 1497.78 that looks similar to the mean of the total lots summary. In the above screenshot the p-Value is 0.06028, which is higher than the significance level of 0.05 and therefore there is no evidence to rejecting the null hypothesis.
+From the results displayed above  it is evident that the sample mean is 1497.78 that looks similar to the mean of the total lots summary. the p-Value is 0.06028, which is higher than the significance level of 0.05 and therefore there is no evidence to rejecte the null hypothesis.
 
 * **t-tests that compare each manufacturing lot against mean PSI of the population**
 
 ![name-of-you-image](__)
 
 
-While looking at the results for each manufacturing lot, Lot 1 show that the P _value is 1 and Lot 2 P_value is 0.607 which is higher than the signifigunce level of 0.05 and therefore there is no evidince to reject the null hypothesis and this means that they are statistically similar, while,  Lot 3 shows a P_value of 0.046 which is lower than the signifigince level of the 0.05 and therefore sample mean for lot 3 and the population mean are not statistically different.
+While looking at the results for each manufacturing lot, Lot 1 show that the P _value is 1 and Lot 2 P_value is 0.607 which is higher than the signifigunce level of 0.05 and therefore there is no evidince to reject the null hypothesis and this means the result conclude that thereare no statatisticly significant difference between the mean and the 2 groups. However, concerning Lot 3 shows a P_value of 0.046 which is lower than the signifigince level of the 0.05. The result reveal that the sample mean and the population mean are statistically signigicant.
 
 ## Study Design: MechaCar vs Competition
 
