@@ -27,12 +27,12 @@ From MechaCar Suspension_Coil.csv dataset, the weight capacities of multiple sus
 * The suspension coil’s PSI continuous variable across all manufacturing lots
 * The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 
-* **Total summary dataframe that has the mean, median, variance, and standard deviation of the PSI for all manufacturing lots**
+**Total summary dataframe that has the mean, median, variance, and standard deviation of the PSI for all manufacturing lots**
 
 ![name-of-you-image](https://github.com/Asmaamkawi/MechaCar_Statistical_Analysis/blob/main/Deliverable%202%20total_summary.PNG)
 
 
-* **Lot summary dataframe that has the mean, median, variance, and standard deviation for each manufacturing lot**
+**Lot summary dataframe that has the mean, median, variance, and standard deviation for each manufacturing lot**
 
 ![name-of-you-image](https://github.com/Asmaamkawi/MechaCar_Statistical_Analysis/blob/main/Deliverable%202%20lot_summary.PNG)
 
