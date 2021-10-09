@@ -57,9 +57,7 @@ From here we can see that the mean of the sample size is 1497.78 that looks simi
 ![name-of-you-image](__)
 
 
-While looking at the results, Lot 1 sample actually has the true sample mean of 1500, again as we saw in the summary statistics above. With a p-Value of 1, clearly we cannot reject (i.e. accept) the null hypothesis that there is no statistical difference between the observed sample mean and the presumed population mean (1500).
-Lot 2 has essentially the same outcome with a sample mean of 1500.02, a p-Value of 0.61; the null hypothesis cannot be rejected, and the sample mean and the population mean of 1500 are statistically similar.
+While looking at the results for each manufacturing lot, Lot 1 show that the P _value is 1 and Lot 2 P_value is 0.607 which is higher than the signifigunce level of 0.05 and therefore there is no evidince to reject the null hypothesis and this means that they are statistically similar, while,  Lot 3 shows a P_value of 0.046 which is lower than the signifigince level of the 0.05 and therefore sample mean for lot 3 and the population mean are not statistically different.
 
-However, Lot 3, not surprisingly is a different scenario. Here the sample mean is 1496.14 and the p-Value is 0.04, which is lower than the common significance level of 0.05. All indicating to reject the null hypothesis that this sample mean and the presumed population mean are not statistically different.
 
 
