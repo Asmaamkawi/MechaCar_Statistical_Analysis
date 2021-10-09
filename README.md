@@ -59,5 +59,6 @@ From here we can see that the mean of the sample size is 1497.78 that looks simi
 
 While looking at the results for each manufacturing lot, Lot 1 show that the P _value is 1 and Lot 2 P_value is 0.607 which is higher than the signifigunce level of 0.05 and therefore there is no evidince to reject the null hypothesis and this means that they are statistically similar, while,  Lot 3 shows a P_value of 0.046 which is lower than the signifigince level of the 0.05 and therefore sample mean for lot 3 and the population mean are not statistically different.
 
+## Study Design: MechaCar vs Competition
 
 
