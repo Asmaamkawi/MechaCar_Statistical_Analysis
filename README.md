@@ -50,8 +50,7 @@ A t-test was performed to determine if all manufacturing lots and each lot indiv
 ![name-of-you-image](__)
 
 
-From here we can see the true mean of the sample is 1498.78, which we also saw in the summary statistics above. With a p-Value of 0.06, which is higher than the common significance level of 0.05, there is NOT enough evidence to support rejecting the null hypothesis. That is to say, the mean of all three of these manufacturing lots is statistically similar to the presumed population mean of 1500.
-
+From here we can see that the mean of the sample size is 1497.78 that looks similar to the mean of the total lots summary. In the above screenshot the p-Value is 0.06028, which is higher than the significance level of 0.05 and therefore there is no evidence to rejecting the null hypothesis.
 
 * **t-tests that compare each manufacturing lot against mean PSI of the population**
 
