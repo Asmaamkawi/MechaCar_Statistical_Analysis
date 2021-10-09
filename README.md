@@ -22,12 +22,12 @@ the r-squared value is equal to 0.7, which means that roughly 70% of the variabl
 ## Summary Statistics on Suspension Coils
 write a short summary here
 
-**Total Summary**
+**Total summary dataframe that has the mean, median, variance, and standard deviation of the PSI for all manufacturing lots**
 
 ![name-of-you-image](https://github.com/Asmaamkawi/MechaCar_Statistical_Analysis/blob/main/Deliverable%202%20total_summary.PNG)
 
 
-**Lots Summary**
+**Lot summary dataframe that has the mean, median, variance, and standard deviation for each manufacturing lot**
 
 ![name-of-you-image](https://github.com/Asmaamkawi/MechaCar_Statistical_Analysis/blob/main/Deliverable%202%20lot_summary.PNG)
 
