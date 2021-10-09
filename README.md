@@ -3,8 +3,11 @@
 Attached is a proposal for a statistical study for AutosRUs’ newest prototype. The MechaCar is suffering from production troubles that are blocking the manufacturing team’s progress. Through using R we will analyze and review the production data and will provide the following Deleiverables:
 
 Deliverable 1: Linear Regression to Predict MPG
+
 Deliverable 2: Summary Statistics on Suspension Coils
+
 Deliverable 3: T-Test on Suspension Coils
+
 Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 ## Linear Regression to Predict MPG
