@@ -71,7 +71,7 @@ From the results displayed above  it is evident that the sample mean is 1497.78 
 ![name-of-you-image](https://github.com/Asmaamkawi/MechaCar_Statistical_Analysis/blob/main/Deliverable%203_Part%202_Lot%203.PNG)
 
 
-While looking at the results for each manufacturing lot, Lot 1 show that the P _value is 1 and Lot 2 P_value is 0.607 which is higher than the signifigunce level of 0.05 and therefore there is no evidince to reject the null hypothesis and this means the result conclude that thereare no statatisticly significant difference between the mean and the 2 groups. However, concerning Lot 3 shows a P_value of 0.046 which is lower than the signifigince level of the 0.05. The result reveal that the sample mean and the population mean are statistically signigicant.
+While looking at the results for each manufacturing lot, Lot 1 shows that the P _value is 1 and Lot 2 P_value is 0.607 which are higher than the significance level of 0.05 and therefore there is no evidence to reject the null hypothesis and this means the result conclude that there are no statistically significant difference between the mean and the 2 groups(lot 1,2). However, in regards to Lot 3, it shows a P_value of 0.046 which is lower than the signifigince level of the 0.05. The result reveal that the sample mean and the population mean are statistically significant.
 
 ## Study Design: MechaCar vs Competition
 
